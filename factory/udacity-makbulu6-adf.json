@@ -1,0 +1,9 @@
+{
+	"name": "udacity-makbulu6-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55dc3d36-9ef0-4081-89f3-46f9c6e9e64f",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
